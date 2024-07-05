@@ -1,7 +1,7 @@
 # SPHINX BASICS
 
 ## Installing sphinx
-pip install sphinx sphinx_rtd_theme
+```pip install sphinx sphinx_rtd_theme```
 
 ## Step 1: Sphinx quick install
 Run the below command inside your docs folder
