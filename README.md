@@ -1,5 +1,4 @@
-# SPHINX BASICS
-===============
+# <u>SPHINX BASICS</u>
 
 ## Installing sphinx
 pip install sphinx sphinx_rtd_theme
